@@ -27,6 +27,6 @@ function draw() {
   if (sea.x < 0) {
     sea.x = 410
   }
-    drawSprites();
-    
+   
+  drawSprites();
 }
